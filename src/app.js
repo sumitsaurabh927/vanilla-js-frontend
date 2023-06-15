@@ -1,5 +1,3 @@
-console.log('runnig');
-
 const btn = document.querySelector('.btn');
 const input = document.querySelector('.input');
 const form = document.querySelector('.form')
